@@ -6,7 +6,7 @@
 
 
 
-Note: to enable icons you also need to copy over the `_data` folder.
+Yep That's me
 
 
 
