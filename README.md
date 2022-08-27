@@ -1,10 +1,8 @@
 ---
-title: "About"
-permalink: "/about/"
-layout: page
 ---
 
 ## Litteraly Just J
+
 
 
 
