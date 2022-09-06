@@ -10,9 +10,9 @@ layout: page
 
 
 Yep That's me
-
+Class of 2026
 
 
 ## Technoblade Memorial
 
-![technoblade](/assets/FWi6mJWUIAArCEd.jpg))
+![technoblade](/assets/FWi6mJWUIAArCEd.jpg)
