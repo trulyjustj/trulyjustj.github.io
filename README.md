@@ -15,4 +15,4 @@ Yep That's me
 
 ## Technoblade Memorial
 
-![technoblade](/images/https://github.com/trulyjustj/trulyjustj.github.io/blob/master/images/FWi6mJWUIAArCEd.jpg))
+![technoblade](/assets/FWi6mJWUIAArCEd.jpg))
