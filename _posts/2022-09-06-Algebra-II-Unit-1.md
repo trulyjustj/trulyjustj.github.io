@@ -28,8 +28,11 @@ A mathematical sentence stating that two expressions are equal.
 ### Example 1
 
 m+(n-1)^2 if m = 3 and n = -4
+
 -> 3+(-4-1)^2
+
 -> 3+(-5)^2
+
 -> 3+25 = 28
 
 
