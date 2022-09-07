@@ -62,4 +62,4 @@ m+(n-1)^2 if m = 3 and n = -4
 
 Example of Embedded Link:
 
-{% include embed.html url="https://www.youtube.com/watch?v=dQw4w9WgXcQ" %}
+{% include embed.html url="https://www.youtube.com/embed/dQw4w9WgXcQ" %}
