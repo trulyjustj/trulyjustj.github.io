@@ -35,7 +35,9 @@ m+(n-1)^2 if m = 3 and n = -4
 
 -> 3+25 = 28
 
+---
 
+## Properties
 
 | Property         | Addition         | Multiplication  |       |
 |------------------|------------------|-----------------|
