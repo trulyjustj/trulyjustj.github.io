@@ -25,7 +25,22 @@ A mathematical statement that contains at least one variable.
 #### Equation:
 A mathematical sentence stating that two expressions are equal.
 
+### Example 1
 
+m+(n-1)^2 if m = 3 and n = -4
+-> 3+(-4-1)^2
+-> 3+(-5)^2
+-> 3+25 = 28
+
+
+
+| Property         | Addition         | Multiplication  |       |
+|------------------|------------------|-----------------|
+| Commutative      | a+b=b+a          | ab=ba           |
+| Associate        | (a+6)+c=a+(6+c)  | (ab)c=a(bc)     |
+| Identity         | a+0=a            | a1=a            |
+| Inverse          | a+(-a)=0         | a * 1/2 = 1     |
+| Distributive     | a+(b+c)=ab+ac    | (b+c)a=ba+ca    |
 ## 1.3 Equations
 
 Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
