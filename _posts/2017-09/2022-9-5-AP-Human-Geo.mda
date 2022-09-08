@@ -3,12 +3,29 @@ title: "AP Human Geo"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## AP Human Geography Unit 1
 
+### Basics of Economic Development:
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+ * Formal economy: Any economy that is regulated or taxed by a government.
+ * Informal economy: Any economy that is not taxed or regulated by a government.
+ * GDP: Gross Domestic Product
+ * GNP: Gross National Product
+ * GNI: Gross National Income
+ * GNI per capita: Gross National Income per capita (per person)
+ * GII: Global Innovation Index
+ * HDI: Human Development Index
+ 
+### Anchor Countries:
+United States
+ * China
+ * Rwanda
+ * Nepal
+ * Spain
+ * Mexico
+ * Nigeria
+ * Russia
+ * Japan
 
 {% highlight ruby %}
 def print_hi(name)
