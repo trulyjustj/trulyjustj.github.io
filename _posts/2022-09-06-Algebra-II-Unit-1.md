@@ -51,6 +51,19 @@ m+(n-1)^2 if m = 3 and n = -4
 
 ## 1.5 Solving Inequalities
 
+---
+
+### Random Quote
+
+> My mom always said life was like a box of chocolates. You never know what you're gonna get.
+
+### Random Joke
+
+> What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
+>
+> You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
+>
+> – _Hal Incandenza_
 
 ## Embedded content
 
