@@ -19,7 +19,7 @@ categories: media
  * HDI: Human Development Index
  
 ### Anchor Countries:
-United States
+ * United States
  * China
  * Rwanda
  * Nepal
@@ -29,5 +29,62 @@ United States
  * Russia
  * Japan
 
-nnn
+### Diffusion
+
+Method by which Ideas Spread
+
+### Types of Diffusion:
+ * Relocation
+ * Hierarchical
+ * Contagious
+ * Stimulus
+
+
+### Relocation:
+
+Happens when people immigrate or travel from one region to another, bringing new traditions and ideas with them.
+
+
+### Hierarchical:
+
+Ideas traveling from a high status person or place to “normal” people and places.
+
+
+### Contagious:
+
+Idea spreads rapidly and equally to all people across the population.                        (Ex: Memes)
+
+### Stimulus:
+
+When a group of people adapts or modifies an idea from another region.
+
+### Space Time Compression:
+
+World Communicating through devices.
+
+### Distance Decay:
+
+The further the distance from the heart(center/origin) the less the idea will diffuse.
+
+### Formal Region:
+
+Share specific characteristics that can be identified through data and plotted on a map. (Includes regions designated by a government)
+
+### Functional Region:
+
+Contains a node(important place or object) in the center.
+
+### Vernacular Regions:
+
+Based on people’s opinions.
+
+### Relocation:
+The action of moving to a new place and establishing one's home or business there.
+Hierarchical:
+Of the nature of a hierarchy; arranged in order of rank.
+Contagious:
+(of a disease) spread from one person or organism to another by direct or indirect contact.
+### Stimulus:
+a thing or event that evokes a specific functional reaction in an organ or tissue.
+
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
