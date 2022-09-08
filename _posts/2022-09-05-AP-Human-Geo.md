@@ -87,4 +87,10 @@ Of the nature of a hierarchy; arranged in order of rank.
 ### Stimulus:
 a thing or event that evokes a specific functional reaction in an organ or tissue.
 
+---
+
 > “You are the shuckiest shuck faced shuck in the world!” “I'm unpredictable, I never know where I'm going until I get there, I'm so random, I'm always growing, learning, changing, I'm never the same person twice. But one thing you can be sure of about me; is I will always do exactly what I want to do.”
+
+---
+
+
