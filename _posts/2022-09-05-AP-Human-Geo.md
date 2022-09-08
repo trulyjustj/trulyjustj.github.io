@@ -43,16 +43,18 @@ Method by which Ideas Spread
 ### Relocation:
 
 Happens when people immigrate or travel from one region to another, bringing new traditions and ideas with them.
+The action of moving to a new place and establishing one's home or business there.
 
 
 ### Hierarchical:
 
 Ideas traveling from a high status person or place to “normal” people and places.
+Of the nature of a hierarchy; arranged in order of rank.
 
 
 ### Contagious:
 
-Idea spreads rapidly and equally to all people across the population.                        (Ex: Memes)
+Idea spreads rapidly and equally to all people across the population. (Ex: Memes)
 
 ### Stimulus:
 
@@ -77,16 +79,6 @@ Contains a node(important place or object) in the center.
 ### Vernacular Regions:
 
 Based on people’s opinions.
-
-### Relocation:
-The action of moving to a new place and establishing one's home or business there.
-### Hierarchical:
-Of the nature of a hierarchy; arranged in order of rank.
-### Contagious:
-(of a disease) spread from one person or organism to another by direct or indirect contact.
-### Stimulus:
-a thing or event that evokes a specific functional reaction in an organ or tissue.
-
 
 
 > “You are the shuckiest shuck faced shuck in the world!” “I'm unpredictable, I never know where I'm going until I get there, I'm so random, I'm always growing, learning, changing, I'm never the same person twice. But one thing you can be sure of about me; is I will always do exactly what I want to do.”
