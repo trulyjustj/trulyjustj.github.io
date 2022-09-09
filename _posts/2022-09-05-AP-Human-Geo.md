@@ -12,11 +12,18 @@ categories: media
  * Formal economy: Any economy that is regulated or taxed by a government.
  * Informal economy: Any economy that is not taxed or regulated by a government.
  * GDP: Gross Domestic Product
+  * A measurement showing the total value of all goods and services a country produces annually
  * GNP: Gross National Product
  * GNI: Gross National Income
  * GNI per capita: Gross National Income per capita (per person)
  * GII: Global Innovation Index
  * HDI: Human Development Index
+  * A measurement of the quality of life in a country, on a scale of 0 to 1
+ * PPP: Purchasing power parity
+
+#### Additional Information:
+A high GDP can improve HDI, but only if the country chooses to spend money on the people
+
  
 ### Anchor Countries:
  * United States
