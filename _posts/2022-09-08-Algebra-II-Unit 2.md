@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Algebra II Unit 2"
 mathjax: true
 layout: post
 categories: media
