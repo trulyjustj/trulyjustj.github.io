@@ -5,9 +5,6 @@ layout: post
 categories: media
 ---
 
-![Queen](/assets/Queen_Elizabeth_II_in_March_2015.jpg.webp)
-
-
 ## MathJax
 
 You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
@@ -59,5 +56,15 @@ A wrapper `div` with the class `large` can be used to increase the width of an i
 ## Embedded content
 
 You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
+
+
+
+## Queen Elizabeth II, longest-reigning British monarch (April 21, 1926-September 9, 2022)
+### Rest In Peace
+
+![Queen](/assets/Queen_Elizabeth_II_in_March_2015.jpg.webp)
+
+
+
 
 {% include embed.html url="https://www.youtube.com/embed/CAZ8kTQ49c8" %}
