@@ -3,8 +3,8 @@ title:  "AP Biology"
 layout: post
 ---
 
-## Intro to Biomolecules, 1.2 and 1.3, 8/29/22.
-###Living systems require a constant input of energy
+## Intro to Biomolecules, 1.2 and 1.3
+### Living systems require a constant input of energy
  * Law of conservation of energy says that energy cannot be created or destroyed only transformed
  * Living systems follow the laws of energy
  * Living systems need a constant input of energy to grow, reproduce, and maintain organization
