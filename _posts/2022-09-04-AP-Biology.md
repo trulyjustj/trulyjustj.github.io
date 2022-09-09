@@ -55,3 +55,5 @@ layout: post
 2. Living systems must exchange matter with the environment in order to do the above processes. Since we are non-photosynthetic, we require the exchange of matter with the environment in order to get energy.
 3. Dehydration synthesis reactions are reactions that involve the removal of water when building molecules as carbon can only have 4 bonds at a time.
 4. In comparison to dehydration synthesis reactions, hydrolysis reactions involve adding water back to components when breaking up a molecule to complete the carbon bonds.
+
+"https://www.youtube.com/embed/LYG7sMtb6u8"
