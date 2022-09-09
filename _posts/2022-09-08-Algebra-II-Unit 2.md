@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Queen](Queen_Elizabeth_II_in_March_2015.jpg.webp)
+![Queen](/assets/Queen_Elizabeth_II_in_March_2015.jpg.webp)
 
 
 ## MathJax
