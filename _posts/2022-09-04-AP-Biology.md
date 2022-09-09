@@ -56,4 +56,4 @@ layout: post
 3. Dehydration synthesis reactions are reactions that involve the removal of water when building molecules as carbon can only have 4 bonds at a time.
 4. In comparison to dehydration synthesis reactions, hydrolysis reactions involve adding water back to components when breaking up a molecule to complete the carbon bonds.
 
-"https://www.youtube.com/embed/LYG7sMtb6u8"
+{% include embed.html url="https://www.youtube.com/embed/LYG7sMtb6u8" %}
