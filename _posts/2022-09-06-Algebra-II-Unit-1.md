@@ -38,16 +38,56 @@ m+(n-1)^2 if m = 3 and n = -4
 | Commutative      | a+b=b+a          | ab=ba           |
 | Associate        | (a+6)+c=a+(6+c)  | (ab)c=a(bc)     |
 | Identity         | a+0=a            | a1=a            |
-| Inverse          | a+(-a)=0         | a * 1/2 = 1     |
+| Inverse          | a+(-a)=0         | a × 1/2 = 1     |
 | Distributive     | a+(b+c)=ab+ac    | (b+c)a=ba+ca    |
 
+### Example 1       Example 2 
 
+2(5m+n)+3(2m-4n)    3x(4x-2y)-2x(3x+y)
+
+->10m+2n+6m-12n     ->12x^2-6xy-6x^2-2xy
+
+->16m-10n           ->6x^2-8xy
 
 ## 1.3 Equations
 
+### How To Solve an Equation
+
+Simplify each side by removing parenthesis and combining like terms. Use addition/subtraction to isolate the variable term on one side. Use multiplication/division to solve for the variable.
+
+### Example 1     Example 2
+
+6m-5=-3(2m+1)     3/8n=6
+                  - - - -
+->6m-5=-6m-3      ×8/3  ×8/3
++6m +5 +6m +5     
+                  ->n=48/3
+->12m=2
+   1/12           ->n=16
+   
+->m=1/6
+
+### Literal Equation
+
+An equation where the variables represent known values.
+
+### Example 1
+
+Solve P=2L+2W for W
+
+->P-2L=2W
+
+->W=P-2L / 2
 
 ## 1.4 Solving Absolute Value Equations
 
+### Absolute Value:
+
+A numbers distance from zero on the number line by |x|  |x-c|=r   where *c* is the center, and *r* is the range.
+
+### Examples
+
+|8|=8   |-8|=8    |3.9|=3.9   |0|=0
 
 ## 1.5 Solving Inequalities
 
