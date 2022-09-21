@@ -43,11 +43,19 @@ m+(n-1)^2 if m = 3 and n = -4
 
 ### Example 1       Example 2 
 
-2(5m+n)+3(2m-4n)    3x(4x-2y)-2x(3x+y)
+2(5m+n)+3(2m-4n)
 
-->10m+2n+6m-12n     ->12x^2-6xy-6x^2-2xy
+->10m+2n+6m-12n
 
-->16m-10n           ->6x^2-8xy
+->16m-10n
+
+### Example 2 
+
+3x(4x-2y)-2x(3x+y)
+
+->12x^2-6xy-6x^2-2xy
+
+->6x^2-8xy
 
 ## 1.3 Equations
 
@@ -55,18 +63,29 @@ m+(n-1)^2 if m = 3 and n = -4
 
 Simplify each side by removing parenthesis and combining like terms. Use addition/subtraction to isolate the variable term on one side. Use multiplication/division to solve for the variable.
 
-### Example 1     Example 2
+### Example 1
 
-6m-5=-3(2m+1)     3/8n=6
-                  - - - -
-->6m-5=-6m-3      ×8/3  ×8/3
-+6m +5 +6m +5     
-                  ->n=48/3
+6m-5=-3(2m+1)
+
+->6m-5=-6m-3
++6m +5 +6m +5
+
 ->12m=2
-   1/12           ->n=16
+   1/12
    
 ->m=1/6
 
+### Example 2
+
+ 3/8n=6
+ 
+ ×8/3  ×8/3
+ 
+ ->n=48/3
+ 
+ ->n=16
+ 
+ 
 ### Literal Equation
 
 An equation where the variables represent known values.
@@ -83,7 +102,7 @@ Solve P=2L+2W for W
 
 ### Absolute Value:
 
-A numbers distance from zero on the number line by |x|  |x-c|=r   where *c* is the center, and *r* is the range.
+A numbers distance from zero on the number line by *x*  *x-c*=r   where *c* is the center, and *r* is the range.
 
 ### Examples
 
