@@ -5,16 +5,11 @@ layout: post
 categories: media
 ---
 
-## 2.1 Relations and Functions
+## Linear Regression
 
 
-## 2.2 Linear Equations
+## Matrices
 
-
-## 2.3 Slope Transmissions
-
-
-## 2.4 Linear Regressions
 
 
 ## Queen Elizabeth II, longest-reigning British monarch (April 21, 1926-September 9, 2022)
