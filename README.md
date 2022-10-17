@@ -10,7 +10,7 @@ layout: page
 
 Yep That's me
 Class of 2026
-Discord: j. #0229
+*Discord: j. #0229
 
 
 ## Collaborators
