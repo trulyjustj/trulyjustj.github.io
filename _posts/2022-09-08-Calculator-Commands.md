@@ -1,5 +1,5 @@
 ---
-title:  "Algebra II Unit 2"
+title:  "Calculator Commands"
 mathjax: true
 layout: post
 categories: media
