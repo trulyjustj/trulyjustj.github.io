@@ -19,7 +19,7 @@ Discord: j. #0229
 
 
 ## Other Sites
-* https://trulyjustj.github.io/english1def/
+* [English](https://trulyjustj.github.io/english1def/).
 
 
 ## Support or Contact
