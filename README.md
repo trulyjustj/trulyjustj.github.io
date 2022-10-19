@@ -14,8 +14,12 @@ Class of 2026
 Discord: j. #0229
 
 
-## Collaborators
-* Raiz0r - Adrian Sosa
+## Authors and Contributors
+* @Raiz0r - Adrian Sosa
+
+## Support or Contact
+
+
 
 
 ## Technoblade Memorial
