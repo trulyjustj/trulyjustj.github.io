@@ -1,5 +1,5 @@
 ---
-title:  "Algebra II Unit 1"
+title:  "Algebra II"
 mathjax: true
 layout: post
 categories: media
