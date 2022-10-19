@@ -17,6 +17,11 @@ Discord: j. #0229
 ## Authors and Contributors
 * @Raiz0r - Adrian Sosa
 
+
+## Other Sites
+* https://trulyjustj.github.io/english1def/
+
+
 ## Support or Contact
 
 
